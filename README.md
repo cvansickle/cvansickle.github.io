@@ -1,7 +1,7 @@
 ## Read Me
 
 ### Site: cvansickle.github.io
-This is the read me file for Caroline VanSickle's academic webpage.
+This is the read me file my webpage.
 
 Instructions:
 - Use markdown
